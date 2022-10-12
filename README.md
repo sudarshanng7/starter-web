@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 It can be any web server
 
 ## How to contribue
+
+copyright text
