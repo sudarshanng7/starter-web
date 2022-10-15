@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Sudarshan  sudarshan@example.com
+    Sudarshan  sudarshan@example.com  @sudarshan
 
 # THANKS
 
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	python, C++
