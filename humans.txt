@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Sudarshan  sudarshan@example.com  @sudarshan
+    Sudarshan  sudarshan@example.com  @sudarshan  sud.ng7@abc.com
 
 # THANKS
 
