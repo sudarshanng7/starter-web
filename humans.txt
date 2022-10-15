@@ -13,4 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-	python, C++, SQL
+	python, C++, SQL, Git, Trainihng, ML<DL
